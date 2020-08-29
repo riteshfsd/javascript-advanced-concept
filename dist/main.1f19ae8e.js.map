@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["counter","seconds"],"mappings":"AAAA;;AACA,SAASA,OAAT,GAAmB;AACjB,MAAMC,OAAO,GAAG,CAAhB;AACA,SAAOA,OAAP;AACD;;AAEDD,OAAO","file":"main.1f19ae8e.js","sourceRoot":"../src","sourcesContent":["\"use strict\";\nfunction counter() {\n  const seconds = 0;\n  return seconds;\n}\n\ncounter();\n"]}
